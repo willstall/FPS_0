@@ -267,3 +267,9 @@ Cmd: compileSnippet
   api=0 type=0 insize=977 outsize=10171 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
 Cmd: compileSnippet
   api=0 type=1 insize=977 outsize=6 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=927 outsize=398 ok=1
+Cmd: preprocess
+  insize=555 outsize=256 ok=1
+Cmd: preprocess
+  insize=514 outsize=1507 ok=1
